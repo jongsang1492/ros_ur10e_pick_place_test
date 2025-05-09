@@ -15,6 +15,8 @@ Demo:
 
 ![Demo](./assets/demo.gif)
 
+![Demo](./assets/demo.gif)
+
 Dependencies
 
 - Ubuntu 20.04 + ROS Noetic
