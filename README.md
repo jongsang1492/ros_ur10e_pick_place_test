@@ -11,6 +11,10 @@ Features:
 - ✅ Collision-aware motion planning in a realistic scene
 
 Below is a live simulation GIF showing the full pick and place sequence.
+
+
+
+
 Demo: 
 ![Demo](./assets/demo.gif)
 
