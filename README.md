@@ -4,11 +4,11 @@ This project demonstrates a complete pick-and-place motion planning pipeline usi
 
 
 Features:
--UR10e robot arm simulation
--MoveIt-based planning pipeline
--Object pick using `attach_box()`
--Object place using `detach_object()`
--Collision-aware motion planning in a realistic scene
+- UR10e robot arm simulation  
+- MoveIt-based planning pipeline  
+- Object pick using `attach_box()`  
+- Object place using `detach_object()`  
+- Collision-aware motion planning in a realistic scene
 
 Below is a live simulation GIF showing the full pick and place sequence.
 
