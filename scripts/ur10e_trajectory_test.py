@@ -10,7 +10,7 @@ moveit_commander.roscpp_initialize(sys.argv)
 
 robot = moveit_commander.RobotCommander()
 scene = moveit_commander.PlanningSceneInterface()
-group = moveit_commander.MoveGroupCommander("manipulator")  # ← 여긴 실제 그룹명 확인 필요
+group = moveit_commander.MoveGroupCommander("manipulator")  
 
 pose_target = geometry_msgs.msg.Pose()
 pose_target.orientation.w = 1.0
