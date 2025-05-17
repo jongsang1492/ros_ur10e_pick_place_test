@@ -31,8 +31,6 @@ pick_pose.position.z -= 0.1  # go down
 group.set_pose_target(pick_pose)
 group.go(wait=True)
 
-# 👉 여기서 실제 프로젝트면 gripper 작동 (생략 가능)
-
 # Step 3: Move back up after pick
 group.set_pose_target(above_pick)
 group.go(wait=True)
