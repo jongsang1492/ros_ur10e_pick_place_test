@@ -112,7 +112,7 @@ Potential extensions for this project include:
 
 ## Author
 
-**Jongsang Yoo**  
+**Daniel Yoo**  
 Mechanical Engineering Student, University of Toronto  
 
 Interested in:
